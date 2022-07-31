@@ -1,0 +1,10 @@
+.nav-link {
+  text-align: center;
+}
+.nav-link a {
+  display: inline-block;
+  padding: 10px;
+  font-size: 24px;
+  color: coral;
+  font-weight: 700;
+}
